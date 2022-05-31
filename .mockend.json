@@ -160,7 +160,6 @@
     "created_at": { "dateTime": { "min": "2022-03-01T00:00:00Z", "max": "2022-05-31T23:59:59Z" } },
     "updated_at": { "dateTime": { "min": "2022-03-01T00:00:00Z", "max": "2022-05-31T23:59:59Z" } }
   },
-  "PaymentMethod": { "id": { "int": { "min": 0, "max": 1000000 } }, "method": { "string": {} } },
   "Payment": {
     "id": { "int": { "min": 0, "max": 1000000 } },
     "payment_id": { "int": { "min": 0, "max": 1000000 } },
